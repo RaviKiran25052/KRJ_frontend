@@ -20,7 +20,6 @@ const Homepage = () => {
       <HomeLiftsPricing />
       <TestimonialsSection />
       <VideoTestimonials />
-      <EliteElevatorsFooter />
     </div>
   )
 }
